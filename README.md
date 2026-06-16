@@ -1,209 +1,203 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Subhashini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Final-Year%20M.Sc.%20IT&descAlignY=62&descSize=16" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Subhashini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Final-Year%20M.Sc.%20IT&descAlignY=62&descSize=16" width="100%" alt="header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Subhashini+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%2B+React.js;AI+%2F+ML+Builder+%7C+NLP+%7C+Python;Open+to+Full-Time+SWE+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js+Builder;AI+%2B+ML+Problem+Solver;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Subhashini-Anbalagan&color=70A5FD&style=flat-square&label=Profile+Views" alt="profile views" />
-<a href="https://linkedin.com/in/subhashini-java-ai"><img src="https://img.shields.io/badge/LinkedIn-subhashini--java--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/Subhashini-Anbalagan"><img src="https://img.shields.io/badge/GitHub-Subhashini--Anbalagan-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
-<a href="mailto:subhashini282002@gmail.com"><img src="https://img.shields.io/badge/Email-subhashini282002%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-
-</div>
-
----
-
-## About Me
-
-| | |
-|---|---|
-| **Name** | A. Subhashini |
-| **Location** | Chennai, India |
-| **Degree** | M.Sc. Information Technology (Final Year) — CGPA: 9.339 |
-| **Role** | Java Full Stack Developer / AI and ML Enthusiast |
-| **Stack** | Java, Spring Boot, REST APIs, React.js, Python, MySQL, PostgreSQL, HTML, CSS, Git |
-| **Currently Learning** | Advanced NLP, Microservices Architecture, Cloud Deployment (AWS / GCP) |
-| **Fun Fact** | I built an AI that screens resumes — ironic when job-hunting! |
-| **Motto** | Code with purpose. Build with passion. Grow every day. |
+<p align="center">
+  <a href="https://linkedin.com/in/subhashini-java-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:subhashini282002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aswath_tamilan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aswath_tamilan&style=flat-square&color=70A5FD&label=Profile+Views" />
+</p>
 
 ---
 
-## Tech Stack
+## 👩‍💻 About Me
+
+```java
+public class Subhashini {
+
+    String name           = "A. Subhashini";
+    String location       = "Chennai, Tamil Nadu, India";
+    String degree         = "M.Sc. Information Technology (Final Year) — CGPA: 9.339";
+    String college        = "MOP Vaishnav College for Women";
+
+    String[] stack = {
+        "Java", "Spring Boot", "REST APIs",
+        "React.js", "Python", "SQL",
+        "MySQL", "PostgreSQL", "HTML", "CSS"
+    };
+
+    String[] currentlyLearning = {
+        "Advanced NLP pipelines",
+        "Microservices architecture",
+        "System Design fundamentals"
+    };
+
+    String funFact = "I won 1st place at a coding competition AND built an IoT waste-sorter 🏆";
+
+    public String motto() {
+        return "Build things that matter. Learn things that last.";
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks**
+**Frameworks & Libraries**
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Databases**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI and ML**
+**Tools & DevOps**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-00B4D8?style=flat-square&logo=raspberrypi&logoColor=white" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhashini-Anbalagan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&count_private=true&include_all_commits=true" alt="github stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashini-Anbalagan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=70A5FD&langs_count=8" alt="top languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8" height="170" />
+</p>
 
 ---
 
-## Streak Stats
+## 🔥 Streak Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Subhashini-Anbalagan&theme=tokyonight&background=0d1117&border=70A5FD&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FFA657&currStreakLabel=70A5FD" />
+</p>
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashini-Anbalagan&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFA657&area=true&hide_border=true&theme=tokyo-night" />
+</p>
 
 ---
 
-## Trophy Wall
+## 🏆 Trophy Wall
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subhashini-Anbalagan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 <details>
-<summary><b>Java Full Stack Developer Intern — Salem Infotech | May 2026 – June 2026 | Chennai, India</b></summary>
+  <summary><b>🏢 Java Full Stack Developer Intern — Salem Infotech</b> &nbsp;|&nbsp; <i>May 2026 – June 2026 · Chennai, India</i></summary>
+  <br/>
 
-<br>
-
-- Built an end-to-end **AI-Powered Resume Screening System** automating candidate shortlisting for recruiters
-- Architected the **Spring Boot backend** and designed a clean **REST API layer** consumed by a React.js frontend
-- Integrated **NLP-based resume parsing** to extract, rank, and match candidate profiles against job requirements
-- Managed candidate data in **PostgreSQL** with optimised schema design
-- Gained hands-on experience in full-stack architecture under real production constraints
-
-**Stack:** Java · Spring Boot · React.js · NLP · PostgreSQL · REST APIs · Git
+  - 🤖 Developed an end-to-end **AI-Powered Resume Screening System** that automated candidate shortlisting for recruiters, replacing a manual process.
+  - ⚙️ Built the **Spring Boot** backend and designed the full **REST API** layer for seamless frontend–backend communication.
+  - 🧠 Integrated an **NLP-based resume parsing** module to extract and rank candidate skills intelligently.
+  - ⚛️ Connected a responsive **React.js frontend** to the backend services for recruiter-facing dashboards.
+  - 🗄️ Managed and optimised candidate data storage in **PostgreSQL** under real production project constraints.
 
 </details>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
-| Project | Stack | Description | Highlight |
-|:---|:---|:---|:---|
-| **AI-Powered Resume Screening System** | Java, Spring Boot, React.js, NLP, PostgreSQL | End-to-end hiring automation — parses resumes via NLP, shortlists candidates, presents results on React dashboard | Built during internship; production-grade full-stack app |
-| **AI-Based Smart Waste Segregation System** | Python, AI/ML, IoT, Hardware Integration | IoT + AI system that classifies and auto-segregates waste types using hardware-software integration | 2nd Place — Inter-College IoT Competition |
-| **ML-Based Malicious Android App Detection** | Python, Machine Learning, Scikit-Learn | ML model detecting malicious Android apps from behavioural patterns; academic security research | Certified by Pantech eLearning (Feb–Mar 2023) |
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Achievement | Organiser | Date |
+| Project | Tech Stack | Highlights |
 |:---|:---|:---|
-| 1st Place — DecodeX Coding Competition | WCC College | February 28, 2026 |
-| 2nd Place — AI Smart Waste Segregation, IoT Competition | Inter-College | 2024–25 |
-| Winner — Techcharades Event | Sathyabama University | 2024 |
-| Winner — Architech Event | Sathyabama University | 2024 |
-| Prize Winner — Inter-College Events | MJC College | 2024 |
+| 🤖 **AI-Powered Resume Screening System** | Java · Spring Boot · React.js · NLP · PostgreSQL · REST APIs | End-to-end hiring automation · NLP resume parsing · Recruiter dashboard · Full stack deployment |
+| ♻️ **AI-Based Smart Waste Segregation System** | IoT · AI · Hardware-Software Integration | 🥈 **2nd Place** – Inter-College IoT Competition · Automatic waste classification · Real-time AI inference |
+| 🛡️ **ML-Based Malicious Android App Detection** | Python · Machine Learning · Scikit-learn | Behavioural pattern analysis · Academic security research · Pantech e-Learning certified · Feb–Mar 2023 |
 
-</div>
+</p>
 
 ---
 
-## Education
+## 🎯 Achievements
 
-<div align="center">
+<p align="center">
+
+| 🏅 Award | Event | Date |
+|:---|:---|:---|
+| 🥇 **1st Place** | DecodeX Coding Competition — WCC College | Feb 28, 2026 |
+| 🥈 **2nd Place** | AI-Based Smart Waste Segregation — Inter-College IoT Competition | 2024 |
+| 🏆 **Winner** | Techcharades & Architech Events — Sathyabama College | 2024 |
+| 🎖️ **Prize Winner** | Inter-College Events — MJC College | 2024 |
+
+</p>
+
+---
+
+## 🎓 Education
 
 | Degree | Institution | Year | Score |
 |:---|:---|:---|:---|
-| M.Sc. Information Technology (Final Year) | MOP Vaishnav College for Women, Chennai | 2025 – Present | CGPA: 9.339 |
-| Bachelor of Computer Applications (BCA) | Dr. MGR Janaki College of Arts and Science for Women | 2020 – 2023 | 90% |
-| Higher Secondary (XII) | Manuelmony Matriculation Hr. Sec. School | 2020 | 75% |
-| Secondary (X) | Manuelmony Matriculation Hr. Sec. School | 2018 | 86% |
-
-</div>
+| **M.Sc. Information Technology** *(Final Year)* | MOP Vaishnav College for Women, Chennai | 2025 – Present | **CGPA: 9.339** |
+| **Bachelor of Computer Applications (BCA)** | Dr. MGR Janaki College of Arts and Science for Women | 2020 – 2023 | **90%** |
+| **Higher Secondary (XII)** | Manuelmony Matriculation Hr. Sec. School | 2020 | **75%** |
+| **Secondary (X)** | Manuelmony Matriculation Hr. Sec. School | 2018 | **86%** |
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- Advanced NLP and Large Language Model (LLM) Integration
-- Microservices Architecture with Spring Cloud
-- Cloud Deployment — AWS / GCP
-- Docker and Containerisation Basics
-
----
-
-## Beyond the Code
-
-- **Languages:** English, Tamil (Speak, Read, Write)
-- **Hobbies:** Music, Gardening, Calligraphy
-- **Strengths:** Self-motivated, Team Player, Adaptable
+```text
+📦  Microservices Architecture     ████████████░░░░░░   In Progress
+🧠  Advanced NLP Pipelines         ██████████░░░░░░░░   In Progress
+🏗️  System Design Fundamentals     ████████░░░░░░░░░░   Just Started
+☁️  Cloud Deployment (AWS basics)  ██████░░░░░░░░░░░░   Exploring
+```
 
 ---
 
-<div align="center">
+## 🎵 Beyond the Code
 
-### Let's Connect!
+> 🎶 Music &nbsp;·&nbsp; 🌿 Gardening &nbsp;·&nbsp; ✍️ Calligraphy
+>
+> *"The same focus I bring to a piece of calligraphy — patience, precision, and care — is what I bring to every line of code."*
 
-<a href="https://linkedin.com/in/subhashini-java-ai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/Subhashini-Anbalagan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="mailto:subhashini282002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+---
 
-<br/><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
 
-*Code with purpose. Build with passion. Grow every day.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+<p align="center">
+  <i>Thanks for visiting! If you find my work interesting, feel free to ⭐ a repo or connect on <a href="https://linkedin.com/in/subhashini-java-ai">LinkedIn</a>.</i>
+</p>
