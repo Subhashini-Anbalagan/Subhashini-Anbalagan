@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=A.%20Subhashini&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20%7C%20AI%20%26%20ML%20%7C%20Final-Year%20M.Sc.%20IT&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e96db0,100:f5a25d&height=200&section=header&text=A.%20Subhashini&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20%7C%20AI%20&%20ML%20%7C%20Final-Year%20M.Sc.%20IT&descAlignY=58&descSize=18)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Subhashini+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%2B+React.js;AI+%2F+ML+Builder+%7C+NLP+%7C+Python;Open+to+Full-Time+SWE+Roles+%F0%9F%9A%80)
 
