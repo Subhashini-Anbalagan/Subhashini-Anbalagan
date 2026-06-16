@@ -13,10 +13,10 @@
   <a href="mailto:subhashini282002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/aswath_tamilan">
+  <a href="https://github.com/Subhashini-Anbalagan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aswath_tamilan&style=flat-square&color=70A5FD&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Subhashini-Anbalagan&style=flat-square&color=70A5FD&label=Profile+Views" />
 </p>
 
 ---
@@ -88,9 +88,9 @@ public class Subhashini {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhashini-Anbalagan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashini-Anbalagan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8" height="170" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ public class Subhashini {
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FFA657&currStreakLabel=70A5FD" />
+  <img src="https://streak-stats.demolab.com?user=Subhashini-Anbalagan&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FFA657&currStreakLabel=70A5FD" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ public class Subhashini {
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFA657&area=true&hide_border=true&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashini-Anbalagan&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFA657&area=true&hide_border=true&theme=tokyo-night" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ public class Subhashini {
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhashini-Anbalagan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
